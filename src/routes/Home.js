@@ -26,7 +26,7 @@ const Home = ({userObj}) => {
             {rounds ? (<RoundInfo rounds={rounds}/>) :
                 (<p>예정된 라운드가 없습니다.</p>)
             }
-            <Link to="/roundInput">다음 라운드를 입력하세요</Link>
+            <Link to={process.env.PUBLIC_URL + "/roundInput"}>다음 라운드를 입력하세요</Link>
         </div>
     );
 }
