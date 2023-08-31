@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/birdie/static/js/main.cd630b4c.js",
+    "main.js": "/birdie/static/js/main.3aebba1f.js",
     "index.html": "/birdie/index.html",
-    "main.cd630b4c.js.map": "/birdie/static/js/main.cd630b4c.js.map"
+    "main.3aebba1f.js.map": "/birdie/static/js/main.3aebba1f.js.map"
   },
   "entrypoints": [
-    "static/js/main.cd630b4c.js"
+    "static/js/main.3aebba1f.js"
   ]
 }
