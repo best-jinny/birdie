@@ -5,7 +5,7 @@ import {Button} from "@mui/material";
 import axios from "axios";
 
 //const BASE_URL = "http://localhost:8080";
-const BASE_URL = "http://3.36.163.39:8080";
+const BASE_URL = "//3.36.163.39:8080";
 
 const Home = ({userObj}) => {
 
